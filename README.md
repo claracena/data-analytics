@@ -5,9 +5,11 @@ In this repo you will find a collection of reports and links to dashboards I wil
 
 ---
 
-
+![alt text](https://github.com/claracena/data-analytics/blob/main/google-data-analytics-badge-230x230.png "Google Data Analytics Badge")
 
 ---
+
+## Portfolio Projects
 
 ### NC Gaming
 It is a fictional company that creates mobile games and wants to create a new department to create games for a platform different from mobile and ask a data analyst to find out which platform and game genre is best suited for the ongoing times.
