@@ -22,3 +22,15 @@ It is a fictional company that creates mobile games and wants to create a new de
 > Difficulty: Very simple
 > 
 > Link: https://github.com/claracena/data-analytics/blob/01d29cff6627a7c584f391a2b6e5ae1016c41551/NC%20Gaming%20-%20Data%20Analysis.pdf
+
+### Cyclist Bicycle Sharing Company
+This is a fictional company whose story is given to the students of the Google Data Analytics Professional Certificate as one of the three options for a capstone project. The goal is to determine the difference between the two types of users of their service: annual paying members and casual users.
+
+> Created for: Google Data Analyst Professional Certificate
+> 
+> Tools used: SQL and MS Excel
+> 
+> Difficulty: Simple
+> 
+> Link: https://github.com/claracena/data-analytics/blob/main/Cyclistic%20Data%20Analysis%20Report.pdf
+
