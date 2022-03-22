@@ -12,8 +12,7 @@ In this repo you will find a collection of reports and links to dashboards I wil
 ## Portfolio Projects
 
 ### NC Gaming
-It is a fictional company that creates mobile games and wants to create a new department to create games for a platform different from mobile and ask a data analyst to find out which platform and game genre is best suited for the ongoing times.
-
+It is a fictional company that creates mobile games and wants to inaugurate a new department to make games for a platform different from mobile and ask a data analyst to find out which platform and game genre is best suited for the ongoing times.
 
 > Created for: Google Data Analyst Professional Certificate
 > 
